@@ -1,3 +1,6 @@
+#thanks
+ >https://github.com/Johx22/Patch-Recovery/pull/79
+ >this use upload artifact v4 that resolve this problem:https://github.com/Johx22/Patch-Recovery/issues/81
 # Similar script
 You can also refer this [script](https://github.com/engineer4t/fastboot-patcher)
 
